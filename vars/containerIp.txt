@@ -1,0 +1,3 @@
+SHARED LIB
+==================
+This is an example to docementation
